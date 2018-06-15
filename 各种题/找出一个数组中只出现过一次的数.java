@@ -10,7 +10,7 @@ public class Main {
 		int len = arr.length;
 		
 		int size=256;
-		int[] hashtable = new int[256];
+		int[] hashtable = new int[256];//用数组代替hash表
 
 
 		for (int i = 0; i < len; i++) {
